@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/jgoodies-looks-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/mysql-connector-java-8.0.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/junit-4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jgoodies-common-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
